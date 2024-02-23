@@ -35,7 +35,7 @@ body {
 
 .nav a {
 	text-decoration: none;
-	color: #000
+	color: #000;
 }
 
 .social-link img {
@@ -98,7 +98,7 @@ body {
 }
 .nav-pills .nav-link.active-tag, .nav-pills .show > .nav-link {
 	color: #fff;
-	background-color: #BEB45A;
+	background-color: #a1984c;
 	border-radius:0 ;
 }
 .nav-pills .nav-link {
